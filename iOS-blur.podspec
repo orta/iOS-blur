@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/JagCesar/iOS-blur"
   s.license      = 'Custom'
   s.author       = { "César Pinto Castillo" => "cesar@blocket.se" }
-  s.source       = { :git => "https://github.com/JagCesar/iOS-blur.git", :commit => "4e223ab6dfc108fa210c6ec5d19373fa24d57de3" }
+  s.source       = { :git => "https://github.com/orta/iOS-blur.git", :commit => "4e223ab6dfc108fa210c6ec5d19373fa24d57de3" }
   s.platform     = :ios, '7.0'
   s.source_files = 'blur/blur/AMBlurView.*'
   s.frameworks = 'CoreImage', 'CoreGraphics'
